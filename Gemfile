@@ -32,6 +32,9 @@ gem 'jbuilder', '~> 2.5'
 gem 'jquery-rails'
 gem 'geocoder'
 gem 'httparty'
+gem 'figaro'
+gem 'bootstrap-sass'
+gem 'font-awesome-rails'
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
